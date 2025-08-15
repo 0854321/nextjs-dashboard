@@ -1,4 +1,4 @@
-'use client'
+'use cline'
 import {
   UserGroupIcon,
   HomeIcon,
